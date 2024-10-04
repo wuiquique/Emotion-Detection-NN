@@ -29,7 +29,7 @@ Para ejecutar este proyecto, necesitarás:
 2. Crea un entorno virtual (venv) para instalar las dependencias necesarias:
    ```bash
    python3 -m venv .venv
-   source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
+   source .venv/bin/activate  # En Windows usa `venv\Scripts\activate`
    ```
 
 3. Instala las dependencias utilizando el archivo `requirements.txt`:
