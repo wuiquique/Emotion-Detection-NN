@@ -22,8 +22,8 @@ Para ejecutar este proyecto, necesitarás:
 ### Instalación
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/wuiquique/Emotion-Detection-NN.git
+   cd Emotion-Detection-NN
    ```
 
 2. Crea un entorno virtual (venv) para instalar las dependencias necesarias:
